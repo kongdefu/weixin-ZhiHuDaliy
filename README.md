@@ -5,6 +5,8 @@
 ># 部分截图
 <img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-2.png" width="365" height="619"/> <img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-3.png" width="365" height="619"/> 
 <img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-4.png" width="365" height="619"/><img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-5.png" width="365" height="619"/>
+<img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-7.png" width="365" height="619"/>
+<img src="https://github.com/kongdefu/weixin-ZhiHuDaliy/raw/master/resources/2-8.png" width="365" height="619"/>
 
 ------
 
